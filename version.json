@@ -1,0 +1,8 @@
+{
+  "_ayuda": "Para actualizar: sube 'version' (ej. 1.0.1), pon el link del .exe en 'installerUrl' y escribe las novedades en 'notes' (usa \\n para saltos de linea). 'apkUrl' es el link del .apk (celular), opcional. 'obligatoria': true quita el boton Mas tarde. Si 'version' es igual a la instalada, no sale aviso.",
+  "version": "1.0.0",
+  "installerUrl": "",
+  "apkUrl": "",
+  "notes": "",
+  "obligatoria": false
+}
